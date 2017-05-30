@@ -1,8 +1,8 @@
 {
-  "name": "vue-tutorial",
+  "name": "vue-demo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "kodo <524580860@qq.com>",
+  "author": "Charlotte",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
